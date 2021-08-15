@@ -24,9 +24,15 @@
   <div align="center">
 
 
-#JARVIS WHATSAPP BOT
+<a href="#"><img title="Jarvis V2"
+ src="https://img.shields.io/badge/-JARVIS%20WHATSAPP BOT-black?&style=for-the-badge"></a>
+ </p>
+  <p align="center">
 <div align="center">
-# SETUP
+<a href="#"><img title="Jarvis V2"
+ src="https://img.shields.io/badge/-SETUP-red?&style=for-the-badge"></a>
+ </p>
+  <p align="center">
 <div align="center">
 
   ### Simple Method
