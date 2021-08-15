@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="bot.png" width="200" height="200"/>
 
   <p align="center">
 
@@ -11,11 +11,15 @@
  </p>
 
 
-![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg)
+<div align="center">
+  <img border-radius: 15px src="author.png" width="400" height="400"/>
+
+  <p align="center">
+
 
 
 # 🛠️ JOIN FOR ANY DOUBT
-<a href="https://chat.whatsapp.com/F4ruIq03W5b45cJcWAbvor"><img title="OUR GROUP" src="https://img.shields.io/badge/Author-windro/Jarvis%20V2?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/F4ruIq03W5b45cJcWAbvor"><img title="OUR GROUP" src="https://img.shields.io/badge/Click Here-Join Our Group-Ser/Jarvis%20V2?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
   <div align="center">
 
