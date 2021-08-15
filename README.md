@@ -7,7 +7,7 @@
  src="https://img.shields.io/badge/-Jarvis%20V2-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/918606413490"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Jarvis%20V2?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/918606413490"><img title="Author" src="https://img.shields.io/badge/Author-WindrO-Ser/Jarvis%20V2?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
 
 
